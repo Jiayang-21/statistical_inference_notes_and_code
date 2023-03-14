@@ -32,5 +32,4 @@ What are Type 1 and 2 error?
     - 1-Beta: the probability of a significant result when H1 is true (statistical power)
 - Error rates are frequentist concepts: they are about the long run
     - For each case, you either make a mistake or you don’t, the rate applies to the long term
-    - https://s3-us-west-2.amazonaws.com/secure.notion-static.com/01b8bf3d-e4d4-49f2-be97-116dcb8b7472/Untitled.png
 - The error rate should be set based on the specific goals and available resources
