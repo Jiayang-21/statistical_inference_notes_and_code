@@ -33,3 +33,9 @@ What are Type 1 and 2 error?
 - Error rates are frequentist concepts: they are about the long run
     - For each case, you either make a mistake or you don’t, the rate applies to the long term
 - The error rate should be set based on the specific goals and available resources
+
+
+What is Lindley’s paradox. When P-value close to 0.05 (eg, 0.045), what does it mean?
+- A result can be unlikely when the null hypothesis is true, but it can be even more unlikely assuming the alternative hypothesis is true, and power is very high
+    - some researchers have suggested using lower alpha levels in very large sample sizes, and this is probably sensible advice. Other researchers have suggested using Bayesian statistics (which we will encounter in assignment 2.2), which is also sensible advice
+- In our simulations, we know there is a true effect or not, but in the real world, you don’t know. When you have very high power, use an alpha level of 0.05, and find a p-value of p= .045, the data is surprising, assuming the null hypothesis is true, but it is even **more surprising**, assuming the alternative hypothesis is true. This shows how a significant pvalue is **not always evidence for the alternative hypothesis.**
