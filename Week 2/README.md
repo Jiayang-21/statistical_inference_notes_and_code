@@ -29,6 +29,8 @@ What is the Bayesian statistics
 
 
 What is the formula of posterior odds?
+
+
 <img width="573" alt="image" src="https://user-images.githubusercontent.com/58786087/225404914-ca4c3f78-c897-48bb-b3f0-408e789d38e9.png">
 
 
