@@ -90,7 +90,8 @@ What is pre-registration?
 
 
 When does a significant p-value indicate a true effect?
-    - Useful tool: [Experience Statistics (shinyapps.org)](http://shinyapps.org/apps/PPV/)
+    
+- Useful tool: [Experience Statistics (shinyapps.org)](http://shinyapps.org/apps/PPV/)
 
  
     
