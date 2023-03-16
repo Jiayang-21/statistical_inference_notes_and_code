@@ -13,7 +13,9 @@ Repo for my learnings of the MOOC "Improving your statistical inferences" (https
 #### Code:
 
 <img width="933" alt="image" src="https://user-images.githubusercontent.com/58786087/225491983-6985d229-5cf9-4355-916d-612188422797.png">
-...
+.
+.
+.
 <img width="733" alt="image" src="https://user-images.githubusercontent.com/58786087/225492018-b41d03b0-33f3-4af2-8ac5-72690dd1010b.png">
 
 
