@@ -1,28 +1,4 @@
-# statistical_inference_notes_and_code
-
-Repo for my learnings of the MOOC "Improving your statistical inferences" (https://www.coursera.org/learn/statistical-inferences)
-
-
-## Main contribution:
-
-#### 1. Utilized the Cornell notes structure and converted learnings into a Q & A format.
-#### 2. Convert the R-code used for simulations and analyses into Python code. 
-
-##### For example, below shows the week 3 (Error Control) file:
-
-#### Code:
-
-<img width="800" alt="image" src="https://user-images.githubusercontent.com/58786087/225491983-6985d229-5cf9-4355-916d-612188422797.png">
-.
-
-.
-
-.
-<img width="800" alt="image" src="https://user-images.githubusercontent.com/58786087/225492018-b41d03b0-33f3-4af2-8ac5-72690dd1010b.png">
-
-
-#### Notes: 
-
+### Recall
 
 How to prevent type 1 errors (in multiple testing)?
 
@@ -114,11 +90,20 @@ What is pre-registration?
 
 
 When does a significant p-value indicate a true effect?
-
+    
 - Useful tool: [Experience Statistics (shinyapps.org)](http://shinyapps.org/apps/PPV/)
 
+ 
+    
 
 
+            
 
 
-## Repo for the course: https://github.com/Lakens/statistical_inferences
+        
+
+    
+
+    
+
+    
