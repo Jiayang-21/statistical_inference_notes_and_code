@@ -9,7 +9,7 @@ Repo for my learnings of the MOOC "Improving your statistical inferences" (https
 #### 2. Convert the R-code used for simulations and analyses into Python code. 
 #### 3. Gather supplemental information from other credible sources
 
-##### For example, below shows the week 3 (Error Control) file:
+## For example, below shows the week 3 (Error Control) file:
 
 #### Code:
 
