@@ -119,6 +119,8 @@ When does a significant p-value indicate a true effect?
 - Useful tool: [Experience Statistics (shinyapps.org)](http://shinyapps.org/apps/PPV/)
 
 
+## Certificate: https://coursera.org/share/59e125f7f6577a18fa700039db10a6ee
+<img width="965" alt="image" src="https://user-images.githubusercontent.com/58786087/229879291-2b00b124-820a-4259-8a70-45df5865e13c.png">
 
 
 
